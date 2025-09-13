@@ -5,9 +5,6 @@
 
 A comprehensive Power BI dashboard analyzing Foodpanda's sales data, customer behavior, and business performance metrics.
 
-## 🌐 **Live Portfolio Website**
-**🔗 [View Live Dashboard Portfolio](https://kanaiya-rgb.github.io/Foodpanda-Sales-Analysis-PowerBI-Dashboard/)**
-
 ## 📊 Dashboard Overview
 
 This interactive Power BI dashboard provides deep insights into:
