@@ -147,9 +147,9 @@ Feel free to contribute to this project by:
 
 ## 📞 Contact
 
-**Project Author**: Kanaiya
+**Project Author**: Kanaiya Soni
 - GitHub: [@Kanaiya-rgb](https://github.com/Kanaiya-rgb)
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [Kanaiya Soni](https://www.linkedin.com/in/kanaiya-soni-1992004k/)
 
 ## 📄 License
 
