@@ -74,12 +74,11 @@ Foodpanda-Sales-Analysis-PowerBI-Dashboard/
 ├── README.md
 ├── Foodpanda_Dashboard.pbix          # Main Power BI file
 ├── Screenshots/                      # Dashboard screenshots
-│   ├── Overview.png
-│   ├── Sales_Analysis.png
-│   └── Customer_Insights.png
+│   ├── Foodpanda_Dashboard_page-1.jpg
+│   ├── Foodpanda_Dashboard_page-2.jpg
+│   └── Foodpanda_Dashboard_page-3.jpg
 ├── Documentation/                    # Project documentation
-│   ├── Project_Report.pdf
-│   └── Technical_Specifications.pdf
+│   ├── Foodpanda_Dashboard.pdf
 └── Data/                            # Sample data files
     └── Sample_Dataset.xlsx
 ```
@@ -185,5 +184,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
 
 
