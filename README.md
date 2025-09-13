@@ -1,6 +1,12 @@
 # 🍜 Foodpanda Sales Analysis - Power BI Dashboard
 
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-View_Now-blue?style=for-the-badge&logo=github)](https://kanaiya-rgb.github.io/Foodpanda-Sales-Analysis-PowerBI-Dashboard/)
+[![GitHub Repository](https://img.shields.io/badge/📁_GitHub-View_Source-green?style=for-the-badge&logo=github)](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard)
+
 A comprehensive Power BI dashboard analyzing Foodpanda's sales data, customer behavior, and business performance metrics.
+
+## 🌐 **Live Portfolio Website**
+**🔗 [View Live Dashboard Portfolio](https://kanaiya-rgb.github.io/Foodpanda-Sales-Analysis-PowerBI-Dashboard/)**
 
 ## 📊 Dashboard Overview
 
