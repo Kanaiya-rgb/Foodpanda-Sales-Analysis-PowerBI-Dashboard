@@ -25,10 +25,10 @@ This interactive Power BI dashboard provides deep insights into:
 ## 📈 Dashboard Components
 
 ### 1. Executive Summary
-- Total Revenue and Growth Rate
-- Order Volume Trends
-- Customer Acquisition Metrics
-- Top Performing Cities
+- **₹29.0B Total Revenue** with proper currency formatting
+- **6,000 Total Orders** across all cities
+- **₹4.80M Average Order Value** - key business metric
+- **Top Performing Cities** analysis
 
 ### 2. Sales Analysis
 - Revenue by Month/Quarter
@@ -99,14 +99,14 @@ Foodpanda-Sales-Analysis-PowerBI-Dashboard/
 
 ## 📊 Key Metrics & KPIs
 
-| Metric | Description |
-|--------|-------------|
-| Total Revenue | Sum of all order values |
-| Order Volume | Number of orders placed |
-| Average Order Value | Revenue / Number of Orders |
-| Customer Retention Rate | Percentage of returning customers |
-| Top City Performance | Revenue by geographic location |
-| Peak Hours | Most active ordering times |
+| Metric | Value | Description |
+|--------|-------|-------------|
+| Total Revenue | ₹29.0B | Sum of all order values |
+| Total Orders | 6,000 | Number of orders placed |
+| Average Order Value | ₹4.80M | Revenue / Number of Orders |
+| Customer Retention Rate | 65% | Percentage of returning customers |
+| Top City Performance | Multan | Highest order volume city |
+| Payment Distribution | 33% each | Cash, Card, Wallet split |
 
 ## 🎨 Dashboard Screenshots
 
