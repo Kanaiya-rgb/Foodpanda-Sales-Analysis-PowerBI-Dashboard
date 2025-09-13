@@ -116,13 +116,13 @@ Foodpanda-Sales-Analysis-PowerBI-Dashboard/
 ### 📸 Dashboard Screenshots
 
 #### 1. Executive Summary & KPIs
-![Dashboard Overview](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/blob/main/Foodpanda_Dashboard%20-%201.jpg)
+![Dashboard Overview](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/blob/main/Foodpanda_Dashboard_page-0001.jpg)
 
 #### 2. Sales Analysis & Trends
-![Sales Analysis](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/blob/main/Foodpanda_Dashboard%20-%202.jpg)
+![Sales Analysis](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/blob/main/Foodpanda_Dashboard_page-0002.jpg)
 
 #### 3. Customer Insights & Geographic Analysis
-![Customer Insights](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/blob/main/Foodpanda_Dashboard%20-%203.jpg)
+![Customer Insights](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/blob/main/Foodpanda_Dashboard_page-0003.jpg)
 
 ## 🔧 Customization
 
@@ -185,3 +185,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
