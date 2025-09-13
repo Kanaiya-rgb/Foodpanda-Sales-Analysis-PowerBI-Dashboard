@@ -107,7 +107,19 @@ Foodpanda-Sales-Analysis-PowerBI-Dashboard/
 
 ## 🎨 Dashboard Screenshots
 
-*[Screenshots will be added showing different views of the dashboard]*
+### 📊 Live Portfolio Website
+**🌐 [View Live Dashboard Portfolio](https://kanaiya-rgb.github.io/Foodpanda-Sales-Analysis-PowerBI-Dashboard/)**
+
+### 📸 Dashboard Screenshots
+
+#### 1. Executive Summary & KPIs
+![Dashboard Overview](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/blob/main/Foodpanda_Dashboard%20-%201.jpg)
+
+#### 2. Sales Analysis & Trends
+![Sales Analysis](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/blob/main/Foodpanda_Dashboard%20-%202.jpg)
+
+#### 3. Customer Insights & Geographic Analysis
+![Customer Insights](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/blob/main/Foodpanda_Dashboard%20-%203.jpg)
 
 ## 🔧 Customization
 
@@ -155,7 +167,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Live Dashboard
 
-*[Power BI Service link will be added once published]*
+### 🌐 **Live Portfolio Website**
+**🔗 [View Live Dashboard Portfolio](https://kanaiya-rgb.github.io/Foodpanda-Sales-Analysis-PowerBI-Dashboard/)**
+
+### 📁 **Download Files**
+- **📥 [Download .pbit File](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/raw/main/Foodpanda_Dashboard.pbit)**
+- **📄 [Download PDF Report](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard/raw/main/Foodpanda_Dashboard.pdf)**
+
+### 🎯 **Quick Access**
+- **GitHub Repository**: [View Source Code](https://github.com/Kanaiya-rgb/Foodpanda-Sales-Analysis-PowerBI-Dashboard)
+- **Live Website**: [Interactive Portfolio](https://kanaiya-rgb.github.io/Foodpanda-Sales-Analysis-PowerBI-Dashboard/)
+- **Dataset**: [Kaggle Foodpanda Dataset](https://www.kaggle.com/datasets/nabihazahid/foodpanda-analysis-dataset-2025)
 
 ---
 
